@@ -1,0 +1,72 @@
+@font-face {
+    font-family: '.';
+    src: url('984d5bab1eac9017ff3f2c849a8d2ab9.woff2') format('woff2'),
+        url('984d5bab1eac9017ff3f2c849a8d2ab9.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '.';
+    src: url('61a29909294b131692a581a600be9857.woff2') format('woff2'),
+        url('61a29909294b131692a581a600be9857.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netflix Sans';
+    src: url('NetflixSans-Bold.woff2') format('woff2'),
+        url('NetflixSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '.';
+    src: url('819a163bd397a443255beb61574d740f.woff2') format('woff2'),
+        url('819a163bd397a443255beb61574d740f.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netflix Sans';
+    src: url('NetflixSans-Light.woff2') format('woff2'),
+        url('NetflixSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netflix Sans';
+    src: url('NetflixSans-Regular.woff2') format('woff2'),
+        url('NetflixSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '.';
+    src: url('dc3cbfb56c9325d03a1977e269769593.woff2') format('woff2'),
+        url('dc3cbfb56c9325d03a1977e269769593.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Netflix Sans';
+    src: url('NetflixSans-Medium.woff2') format('woff2'),
+        url('NetflixSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
