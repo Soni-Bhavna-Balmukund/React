@@ -1,0 +1,216 @@
+@font-face {
+    font-family: 'Inter-Bureau 3D';
+    src: url('Inter-Bureau3D.woff2') format('woff2'),
+        url('Inter-Bureau3D.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau';
+    src: url('Inter-BureauBoldItalic.woff2') format('woff2'),
+        url('Inter-BureauBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Academy';
+    src: url('Inter-BureauAcademy.woff2') format('woff2'),
+        url('Inter-BureauAcademy.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau 3D';
+    src: url('Inter-Bureau3DItalic.woff2') format('woff2'),
+        url('Inter-Bureau3DItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Expanded';
+    src: url('Inter-BureauExpanded.woff2') format('woff2'),
+        url('Inter-BureauExpanded.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Expanded';
+    src: url('Inter-BureauExpandedItalic.woff2') format('woff2'),
+        url('Inter-BureauExpandedItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Gradient';
+    src: url('Inter-BureauGradientItalic.woff2') format('woff2'),
+        url('Inter-BureauGradientItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Gradient';
+    src: url('Inter-BureauGradient.woff2') format('woff2'),
+        url('Inter-BureauGradient.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Condensed';
+    src: url('Inter-BureauCondensed.woff2') format('woff2'),
+        url('Inter-BureauCondensed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau';
+    src: url('Inter-Bureau.woff2') format('woff2'),
+        url('Inter-Bureau.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau';
+    src: url('Inter-BureauBold.woff2') format('woff2'),
+        url('Inter-BureauBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau';
+    src: url('Inter-BureauItalic.woff2') format('woff2'),
+        url('Inter-BureauItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Condensed';
+    src: url('Inter-BureauCondensedItalic.woff2') format('woff2'),
+        url('Inter-BureauCondensedItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Academy';
+    src: url('Inter-BureauAcademyItalic.woff2') format('woff2'),
+        url('Inter-BureauAcademyItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Halftone';
+    src: url('Inter-BureauHalftoneItalic.woff2') format('woff2'),
+        url('Inter-BureauHalftoneItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Halftone';
+    src: url('Inter-BureauHalftone.woff2') format('woff2'),
+        url('Inter-BureauHalftone.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Outline';
+    src: url('Inter-BureauOutlineItalic.woff2') format('woff2'),
+        url('Inter-BureauOutlineItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Semi';
+    src: url('Inter-BureauSemi-Italic.woff2') format('woff2'),
+        url('Inter-BureauSemi-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Semi';
+    src: url('Inter-BureauSemi-BoldItalic.woff2') format('woff2'),
+        url('Inter-BureauSemi-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Outline';
+    src: url('Inter-BureauOutline.woff2') format('woff2'),
+        url('Inter-BureauOutline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Super';
+    src: url('Inter-BureauSuper-Italic.woff2') format('woff2'),
+        url('Inter-BureauSuper-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Semi';
+    src: url('Inter-BureauSemi-Bold.woff2') format('woff2'),
+        url('Inter-BureauSemi-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Title';
+    src: url('Inter-BureauTitleItalic.woff2') format('woff2'),
+        url('Inter-BureauTitleItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter-Bureau Title';
+    src: url('Inter-BureauTitle.woff2') format('woff2'),
+        url('Inter-BureauTitle.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
