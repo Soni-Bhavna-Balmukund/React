@@ -8,6 +8,8 @@ import { HiPlus } from "react-icons/hi";
 
 function App() {
 
+  let navvv = [100,200,300,400];
+
   return (
     <>
 
@@ -17,10 +19,10 @@ function App() {
 
 
 
+       <Header name={navvv} />
       <div className="bg-gray">
 
 
-       <Header/>
 
     <Slider/>
 
