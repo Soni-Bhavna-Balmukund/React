@@ -8,3 +8,17 @@
     rgba(212, 32, 32, 1) 100%
   );
 }
+
+.rn{
+  font-size: 150px;
+  display: grid;
+  padding-top: 200px;
+  place-items: center;
+}
+
+@media screen and (max-width:850px)
+{
+  .rn{
+    font-size:50px;
+  }
+}
